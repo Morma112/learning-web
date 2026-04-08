@@ -1,0 +1,52 @@
+body {
+    background-color: #2F4F4F;
+    /* สีพื้นหลังเว็บ (Alice Blue) */
+}
+
+h1 {
+    color: #F0F8FF;
+    /* เปลี่ยนสีหัวข้อใหญ่ */
+}
+
+p {
+    color: #E6E6FA;
+    /* เปลี่ยนสีตัวอักษรทั่วไปให้ดูนุ่มขึ้น */
+}
+
+input {
+    padding: 10px;
+    /* เพิ่มพื้นที่หายใจภายในช่องพิมพ์ */
+    border: 1px solid #ccc;
+    /* เส้นขอบบางๆ */
+    border-radius: 4px;
+    /* ทำมุมโค้งมน */
+}
+
+ul {
+    margin-left: 20px;
+    /* ดันรายการไปทางขวา */
+    line-height: 2;
+    /* เพิ่มระยะห่างระหว่างบรรทัดของนมสดกับไข่ไก่ */
+}
+
+h3 {
+    color: #FFE4E1;
+    margin-top: 30px;
+    /* เพิ่มระยะห่างด้านบนหัวข้อ เพื่อไม่ให้ติดกับเส้น <hr> */
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+li {
+    color: #E6E6FA;
+}
+
+.container {
+    padding-left: 50px;
+    /* เขยิบเฉพาะด้านซ้ายเข้ามา 50px */
+    padding-right: 50px;
+    /* เขยิบเฉพาะด้านขวาเข้ามา 50px */
+}
